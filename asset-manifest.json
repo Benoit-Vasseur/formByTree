@@ -1,0 +1,21 @@
+{
+  "files": {
+    "main.css": "/formByTree/static/css/main.5ecd60fb.chunk.css",
+    "main.js": "/formByTree/static/js/main.43ee4ee3.chunk.js",
+    "main.js.map": "/formByTree/static/js/main.43ee4ee3.chunk.js.map",
+    "runtime-main.js": "/formByTree/static/js/runtime-main.ce8905ce.js",
+    "runtime-main.js.map": "/formByTree/static/js/runtime-main.ce8905ce.js.map",
+    "static/js/2.54b03666.chunk.js": "/formByTree/static/js/2.54b03666.chunk.js",
+    "static/js/2.54b03666.chunk.js.map": "/formByTree/static/js/2.54b03666.chunk.js.map",
+    "index.html": "/formByTree/index.html",
+    "precache-manifest.7dfe7c1bfa8571a1d9902632cbbaf4e4.js": "/formByTree/precache-manifest.7dfe7c1bfa8571a1d9902632cbbaf4e4.js",
+    "service-worker.js": "/formByTree/service-worker.js",
+    "static/css/main.5ecd60fb.chunk.css.map": "/formByTree/static/css/main.5ecd60fb.chunk.css.map"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.ce8905ce.js",
+    "static/js/2.54b03666.chunk.js",
+    "static/css/main.5ecd60fb.chunk.css",
+    "static/js/main.43ee4ee3.chunk.js"
+  ]
+}
